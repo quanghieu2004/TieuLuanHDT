@@ -1,0 +1,5 @@
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DTO\bin\Debug\DTO.dll
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DTO\bin\Debug\DTO.pdb
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DTO\obj\Debug\DTO.dll
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DTO\obj\Debug\DTO.pdb

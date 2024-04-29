@@ -1,0 +1,6 @@
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DAO\bin\Debug\DAO.dll
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DAO\bin\Debug\DAO.pdb
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DAO\obj\Debug\DAO.dll
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DAO\obj\Debug\DAO.pdb
+D:\Tiểu luận UML\Thiet_Ke_Giao_Dien\PhanMemEduSoft\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
